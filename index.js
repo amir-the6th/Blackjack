@@ -17,7 +17,7 @@ function getRandomCard() {
     console.log(num);
     
     if (num ===1) num = 11;
-    else if (num === 11 || num === 12 || num === 13) num = 10;
+    else if (num > 10) num = 10;
     
     return num;
 }
