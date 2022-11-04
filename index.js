@@ -1,11 +1,22 @@
+
+let player = {
+    name: "Amir",
+    chips: 354
+}
+
 let cards = [];
 let sum = 0;
 let hasBlackJack = false;
 let isAlive = false;
 let message = "";
+
+//elements
+let playerEl = document.getElementById("player-el");
 let messageEl = document.getElementById("message-el");
 let sumEl = document.getElementById("sum-el");
 let cardsEl = document.getElementById("cards-el");
+
+playerEl.textContent = player.name + ": $" + player.chips;
 
 // Make this function return a random number between 1 and 13
 function getRandomCard() {
