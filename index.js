@@ -16,6 +16,7 @@ let messageEl = document.getElementById("message-el");
 let sumEl = document.getElementById("sum-el");
 let cardsEl = document.getElementById("cards-el");
 
+//start of the game info about the player
 playerEl.textContent = player.name + ": $" + player.chips;
 
 // Make this function return a random number between 1 and 13
@@ -32,13 +33,18 @@ function getRandomCard() {
 }
 
 function startGame() {
-    isAlive = true;
-    let firstCard = getRandomCard()
-    let secondCard = getRandomCard()
-    cards = [firstCard, secondCard]
-    sum = firstCard + secondCard;
-
-    renderGame()
+    if (player.chips > 0) {
+        isAlive = true;
+        hasBlackJack = false;
+        let firstCard = getRandomCard()
+        let secondCard = getRandomCard()
+        cards = [firstCard, secondCard]
+        sum = firstCard + secondCard;
+        renderGame();
+    } else {
+        console.log("here");
+        messageEl.textContent = "You have lost, " + player.name + "!\n Please come back with more money.";
+    }
 }
 
 function renderGame() {
@@ -54,9 +60,11 @@ function renderGame() {
     } else if (sum === 21) {
         message = "You've got Blackjack!";
         hasBlackJack = true;
+        updateChips(hasBlackJack);
     } else {
         message = "You're out of the game!";
         isAlive = false;
+        updateChips(isAlive);
     }
     messageEl.textContent = message;
 }
@@ -69,5 +77,18 @@ function newCard() {
         // Push the card to the cards array
         cards.push(card);
         renderGame();
+    }
+}
+
+function updateChips(won) {
+    // hardcoded values for now, will study the basics of
+    // Blackjack and gambling then update this logic later.
+
+    if(won) {
+        player.chips += 146;
+        playerEl.textContent = player.name + ": $" + player.chips;
+    } else {
+        player.chips -= 57;
+        playerEl.textContent = player.name + ": $" + player.chips;
     }
 }
