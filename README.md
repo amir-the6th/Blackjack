@@ -1,13 +1,48 @@
-# cobc34d5c9667cea9d00fdb9f
+# Scrimba Project - Blackjack
 
-## About Scrimba
+This is an application created during the [Learn JavaScript for free](https://scrimba.com/learn/learnjavascript) course on Scrimba. 
+Most of the application was taught how to code during the section, though I coded some extra features and added more spice to the Blackjack game app. 
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Table of contents
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-Happy Coding!
+
+## Overview
+
+### Screenshot
+
+#### Desktop
+![desktop screenshot](./images/screenshot-desktop.png)
+
+#### Mobile
+<img alt="mobile screenshot" src="./images/screenshot-mobile.png" width="500px" />
+
+### Links
+
+- Solution URL: [Link](https://github.com/amir-the6th/Blackjack)
+- Live Site URL: [Link](https://dazzling-hotteok-62e009.netlify.app/)
+
+## My process
+
+### Built with
+
+- HTML5
+- CSS
+- JavaScript
+
+### What I learned
+
+## Author
+
+- Website - [Amir Sabagh](https://arsenicolos.com)
+- GitHub - [@amir-the6th](https://github.com/amir-the6th)
+
+## Acknowledgments
