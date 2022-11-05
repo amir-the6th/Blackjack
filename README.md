@@ -24,7 +24,7 @@ Most of the application was taught how to code during the section, though I code
 - Live Site URL: [Link](https://dazzling-hotteok-62e009.netlify.app/)
 
 ### Demo
-![demo](images/demo.gif)
+![demo](images/demo.mp4)
 
 ### Screenshot
 
