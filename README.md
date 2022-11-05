@@ -26,6 +26,7 @@ Most of the application was taught how to code during the section, though I code
 ### Demo
 (please wait for complete loading if not shown)
 ![demo](images/demo.gif)
+<img alt="demo gif" src="./images/demo.gif" width="500px" />
 
 ### Screenshot
 
