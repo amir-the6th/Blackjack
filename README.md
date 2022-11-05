@@ -6,8 +6,9 @@ Most of the application was taught how to code during the section, though I code
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Demo](#demo)
+  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -17,6 +18,14 @@ Most of the application was taught how to code during the section, though I code
 
 ## Overview
 
+### Links
+
+- Solution URL: [Link](https://github.com/amir-the6th/Blackjack)
+- Live Site URL: [Link](https://dazzling-hotteok-62e009.netlify.app/)
+
+### Demo
+![demo](images/demo.gif)
+
 ### Screenshot
 
 #### Desktop
@@ -24,11 +33,6 @@ Most of the application was taught how to code during the section, though I code
 
 #### Mobile
 <img alt="mobile screenshot" src="./images/screenshot-mobile.png" width="500px" />
-
-### Links
-
-- Solution URL: [Link](https://github.com/amir-the6th/Blackjack)
-- Live Site URL: [Link](https://dazzling-hotteok-62e009.netlify.app/)
 
 ## My process
 
