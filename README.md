@@ -26,15 +26,17 @@ Most of the application was taught how to code during the section, though I code
 ### Demo
 (please wait for complete loading if not shown)
 ![demo](images/demo.gif)
-<img alt="demo gif" src="./images/demo.gif" width="500px" />
+<img alt="demo gif" src="./images/demo.gif" width="800px" />
 
 ### Screenshot
 
 #### Desktop
 ![desktop screenshot](./images/screenshot-desktop.png)
+<img alt="desktop screenshot" src="./images/screenshot-desktop.png" width="800px" />
+
 
 #### Mobile
-<img alt="mobile screenshot" src="./images/screenshot-mobile.png" width="500px" />
+<img alt="mobile screenshot" src="./images/screenshot-mobile.png" width="800px" />
 
 ## My process
 
