@@ -11,9 +11,7 @@ Most of the application was taught how to code during the section, though I code
   - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -24,7 +22,7 @@ Most of the application was taught how to code during the section, though I code
 - Live Site URL: [Link](https://dazzling-hotteok-62e009.netlify.app/)
 
 ### Demo
-(please wait for complete loading if not shown)
+(⌛ please wait for complete loading if not shown yet)
 <img alt="demo gif" src="./images/demo.gif" />
 
 ### Screenshot
@@ -34,7 +32,7 @@ Most of the application was taught how to code during the section, though I code
 
 
 #### Mobile
-<img alt="mobile screenshot" src="./images/screenshot-mobile.png" width="800px" />
+<img alt="mobile screenshot" src="./images/screenshot-mobile.png" width="600px" />
 
 ## My process
 
@@ -44,11 +42,7 @@ Most of the application was taught how to code during the section, though I code
 - CSS
 - JavaScript
 
-### What I learned
-
 ## Author
 
 - Website - [Amir Sabagh](https://arsenicolos.com)
 - GitHub - [@amir-the6th](https://github.com/amir-the6th)
-
-## Acknowledgments
